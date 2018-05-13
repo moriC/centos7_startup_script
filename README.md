@@ -1,0 +1,2 @@
+# centos7_startup_script
+centos7_startup_script
